@@ -17,3 +17,5 @@ To observe the error run:
 ```
 npm run storybook
 ```
+
+See full bug https://github.com/storybookjs/storybook/issues/33466
